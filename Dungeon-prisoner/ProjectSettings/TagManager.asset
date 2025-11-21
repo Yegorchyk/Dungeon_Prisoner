@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerPhysDammage
+  - Enemy
+  - Magic
+  - Ground
+  - Fon
+  - Drabina
+  - Room
+  - Walls
+  - Kislota
+  - AirAuraUlt
+  - StoneAuraUlt
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Fon
+  - Ground
+  - Trigger
+  - Light
+  - Player
+  - MiniMapLayer
+  - PlayerMagic
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
