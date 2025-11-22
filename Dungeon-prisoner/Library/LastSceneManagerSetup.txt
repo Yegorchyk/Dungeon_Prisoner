@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Kanakisation.unity
+- path: Assets/Scenes/KingofRats.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
